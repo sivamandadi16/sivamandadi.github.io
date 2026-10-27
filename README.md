@@ -23,3 +23,5 @@ python3 -m http.server 8000
 ## Deploy (GitHub Pages)
 This repo is named `sivamandadi16.github.io`, so GitHub Pages serves it
 automatically from the `main` branch root once the files are pushed.
+
+<!-- Rebuild trigger: Pages enabled 2026-10-27 -->
